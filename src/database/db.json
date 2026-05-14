@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphone",
+    "price": 59.99,
+    "category": "Electronics",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "name": "Gaming Mouse",
+    "price": 29.99,
+    "category": "Accessories",
+    "stock": 40
+  }
+]
